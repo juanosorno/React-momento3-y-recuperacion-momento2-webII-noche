@@ -5,7 +5,7 @@ Dentro del repositorio github encontramos 3 carpetas.
 
 ```Carpeta "ApiPHP"
 
-Dentro de la carpeta "ApiPHP" entontramos la carpeta "date" la cual debemos llevar hacia nuestra carpeta xampp.
+Dentro de la carpeta "ApiPHP" entontramos la carpeta "date" la cual debemos llevar hacia nuestra carpeta htdocs que esta en nuestra carpeta de xampp.
 
 Para inicializar el proyecto php debemos abrir la carpeta "date" en nuestro IDE.
 Luego ejecutamos Xampp.
